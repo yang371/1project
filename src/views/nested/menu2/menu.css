@@ -1,0 +1,14 @@
+.menu{
+
+  height:300px;
+  width:300px;
+  background: #2ac06d;
+}
+.menu1{
+  display: inline-block;
+  font-size:100px;
+}
+.el-menu-demo{
+  left: 500px;
+  background: #2ac06d;
+}
